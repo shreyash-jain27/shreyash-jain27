@@ -1,4 +1,3 @@
-![Banner](https://raw.githubusercontent.com/shreyash-jain27/shreyash-jain27/main/assets/banner.png)
 <h1 align="center">Hi, I'm Shreyash Jain 👋</h1>
 <h3 align="center">Building backend systems that handle queues, webhooks & AI-driven workflows</h3>
 
