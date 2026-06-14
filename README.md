@@ -66,13 +66,13 @@ Frontend application for booking home repair services, built with a modern, resp
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/shreyash-jain27" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
+<a href="https://leetcode.com/u/Lucifer_1O1/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode" height="40" />
 </a>
-<a href="https://instagram.com/fit._yashx" target="_blank">
+<a href="https://www.instagram.com/shrey__jain/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
